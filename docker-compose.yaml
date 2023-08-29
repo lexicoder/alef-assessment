@@ -15,7 +15,7 @@ services:
       db:
         condition: service_started
   db_migration:
-    image: migrate/migrate:v4.15.1
+    image: migrate/migrate:v4.16.2
     entrypoint: /bin/sh
     command:
       [
