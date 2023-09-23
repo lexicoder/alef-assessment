@@ -7,7 +7,7 @@ require (
 	github.com/gorilla/mux v1.8.0
 	github.com/gorilla/sessions v1.2.1
 	github.com/lib/pq v1.10.4
-	golang.org/x/crypto v0.13.1-0.20230920181032-a1aeb9b34eb6
+	golang.org/x/crypto v0.13.0
 )
 
 require (
