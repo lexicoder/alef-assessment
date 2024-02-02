@@ -3,7 +3,7 @@ module assessment
 go 1.17
 
 require (
-	github.com/badoux/checkmail v1.2.1
+	github.com/badoux/checkmail v1.2.4
 	github.com/gorilla/mux v1.8.0
 	github.com/gorilla/sessions v1.2.1
 	github.com/lib/pq v1.10.9
