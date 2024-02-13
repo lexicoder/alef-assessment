@@ -40,7 +40,7 @@ services:
       db:
         condition: service_started
   db:
-    image: postgres:16.1
+    image: postgres:16.2
     environment:
       - POSTGRES_DB
       - POSTGRES_PASSWORD
